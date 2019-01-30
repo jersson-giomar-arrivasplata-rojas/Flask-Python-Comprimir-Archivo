@@ -1,0 +1,17 @@
+pip install PyHamcrest
+pip install protobuf
+pip install zipstream
+pip install rarfile
+
+python .\app.py
+
+//add github
+git init
+
+git add .
+git commit -m 'primer commit'
+git remote add origin https://github.com/jersson-giomar-arrivasplata-rojas/Flask-Python-Comprimir-Archivo.git
+git push -u origin master
+
+
+//
